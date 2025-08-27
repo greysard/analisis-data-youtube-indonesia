@@ -1,13 +1,11 @@
 # Indonesia's Trending Youtube Video Statistic
 
-## Deskripsi
-Proyek ini menganalisis dataset *Indonesia’s Trending YouTube Video Statistics* dari Kaggle untuk menemukan pola dan tren yang terjadi pada video YouTube yang masuk trending di Indonesia. Analisis dataset dilakukan menggunakan Python (pandas, json, matplotlib, seaborn) di Google Colaboratory. Proyek ini mencakup data cleaning, exploratory data analysis (EDA), serta visualisasi tren channel, kategori, views, likes, dan engagement.
+## Overview
+Proyek ini menganalisis dataset *Indonesia’s Trending YouTube Video Statistics* dari Kaggle dengan tujuan untuk menemukan pola dan tren yang terjadi pada video YouTube yang masuk trending di Indonesia. Analisis dataset dilakukan menggunakan Python (pandas, json, matplotlib, seaborn) di Google Colaboratory. Proyek ini mencakup data cleaning, exploratory data analysis (EDA), serta visualisasi tren channel, kategori, views, likes, dan engagement.
 
-## Tujuan
-- Mengetahui channel dan kategori yang mendominasi trending.
-- Mengidentifikasi pola engagement.
-- Menganalisis tren bulanan, tahunan, dan waktu upload.
-- Memberikan rekomendasi berbasis data untuk kreator, advertiser, dan peneliti.
+## Dataset
+**Sumber Data** : [Kaggle - Indonesia's Trending Youtube Video Statistic](https://www.kaggle.com/datasets/syahrulhamdani/indonesias-trending-youtube-video-statistics)
+**Deskripsi** : Dataset berisi informasi video trending yang berfokus pada negara Indonesia, dengan atribut seperti views, like, comments, channel serta kategori pada setiap video yang menunjukkan jenis konten, seperti musik, hiburan, berita, atau olahraga
 
 ## 📊 Analisis yang Dilakukan
 1. TOP 10 Channel Paling Sering Trending  
@@ -29,6 +27,6 @@ Berdasarkan analisis yang sudah di lakukan, maka hasil analisis dapat disimpulka
 
 ## AI Support Explanation
 Selama pengerjaan proyek ini, **ChatGPT (OpenAI), Gemini, IBM Granite** digunakan untuk:  
-- Membantu menganalisis **error coding**.
+- Membantu menganalisis *error coding*.
 - Membantu cleaning data dengan Python (pandas).  
 - Membantu memperbaiki sintaks visualisasi menggunakan `matplotlib` & `seaborn`.
