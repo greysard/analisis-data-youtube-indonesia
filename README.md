@@ -4,8 +4,8 @@
 Proyek ini menganalisis dataset *Indonesia’s Trending YouTube Video Statistics* dari Kaggle dengan tujuan untuk menemukan pola dan tren yang terjadi pada video YouTube yang masuk trending di Indonesia. Analisis dataset dilakukan menggunakan Python (pandas, json, matplotlib, seaborn) di Google Colaboratory. Proyek ini mencakup data cleaning, exploratory data analysis (EDA), serta visualisasi tren channel, kategori, views, likes, dan engagement.
 
 ## Dataset
-**Sumber Data** : [Kaggle - Indonesia's Trending Youtube Video Statistic](https://www.kaggle.com/datasets/syahrulhamdani/indonesias-trending-youtube-video-statistics)
-**Deskripsi** : Dataset berisi informasi video trending yang berfokus pada negara Indonesia, dengan atribut seperti views, like, comments, channel serta kategori pada setiap video yang menunjukkan jenis konten, seperti musik, hiburan, berita, atau olahraga
+- **Sumber Data** : [Kaggle - Indonesia's Trending Youtube Video Statistic](https://www.kaggle.com/datasets/syahrulhamdani/indonesias-trending-youtube-video-statistics)
+- **Deskripsi** : Dataset berisi informasi video trending yang berfokus pada negara Indonesia, dengan atribut seperti views, like, comments, channel serta kategori pada setiap video yang menunjukkan jenis konten, seperti musik, hiburan, berita, atau olahraga
 
 ## 📊 Analisis yang Dilakukan
 1. TOP 10 Channel Paling Sering Trending  
