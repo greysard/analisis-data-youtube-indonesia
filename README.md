@@ -18,3 +18,17 @@ Proyek ini menganalisis dataset *Indonesia’s Trending YouTube Video Statistics
 6. TOP 5 Kategori Video Trending  
 7. Jumlah Video Trending per Tahun  
 8. Tren Jam Upload Video Trending  
+
+## Insight & Findings
+Berdasarkan analisis yang sudah di lakukan, maka hasil analisis dapat disimpulkan:
+- Channel besar dengan konsistensi upload cenderung mendominasi trending.  
+- Engagement (likes & comments) masih sangat kecil dibanding total views → mayoritas penonton pasif.  
+- Like ratio tinggi dapat menjadi indikator kualitas konten.  
+- Waktu upload tertentu menunjukkan pola yang bisa dimanfaatkan untuk strategi publikasi.  
+- Beberapa kategori video memiliki probabilitas lebih besar masuk trending.
+
+## AI Support Explanation
+Selama pengerjaan proyek ini, **ChatGPT (OpenAI), Gemini, IBM Granite** digunakan untuk:  
+- Membantu menganalisis **error coding**.
+- Membantu cleaning data dengan Python (pandas).  
+- Membantu memperbaiki sintaks visualisasi menggunakan `matplotlib` & `seaborn`.
